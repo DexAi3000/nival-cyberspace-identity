@@ -1,6 +1,6 @@
 # Nival — Cyberspace Identity
 
-![Nival demo — cursor-following spotlight reveal](demo.gif)
+![Nival demo — cursor-following spotlight reveal](demo-v2.gif)
 
 A single-file landing page built around a cursor-following **Spotlight Reveal** effect: as the pointer moves across the hero image, a hidden layer — a darker, armored variant of the character — unmasks inside a soft, cursor-following circle. No video, just a radial gradient mask rendered on a canvas in real time.
 
