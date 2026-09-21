@@ -1,8 +1,6 @@
 # Nival — Cyberspace Identity
 
-<video src="https://raw.githubusercontent.com/DexAi3000/nival-cyberspace-identity/main/demo.mp4" controls muted loop playsinline width="100%">
-  Your browser doesn't support embedded video — <a href="demo.mp4">watch it here</a>.
-</video>
+![Nival demo — cursor-following spotlight reveal](demo.gif)
 
 A single-file landing page built around a cursor-following **Spotlight Reveal** effect: as the pointer moves across the hero image, a hidden layer — a darker, armored variant of the character — unmasks inside a soft, cursor-following circle. No video, just a radial gradient mask rendered on a canvas in real time.
 
